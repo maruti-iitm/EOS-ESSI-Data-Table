@@ -18,7 +18,7 @@ The field and metadata are then processed and ingested into the ESM models using
 | SPAtially Referenced Regressions On Watershed attributes (SPARROW)  | SPARROW provides data on streamflow, Nitrogen, Phosphorus, and suspended sediment loads in all watershed in the USA.  | https://www.usgs.gov/mission-areas/water-resources/science/sparrow-mappers?qt-science_center_objects=0#qt-science_center_objects  |
 | Next Generation Ecosystem Experiment – Arctic (NGEE-Arctic)  | NGEE-Arctic provides data on permafrost ecology and carbon cycle dynamics in high-latitude terrestrial ecosystems.  | https://ngee.ornl.gov/  |
 | Next Generation Ecosystem Experiment – Tropics (NGEE-Tropics)  | NGEE-Tropics provides data on tropical forest ecosystems.  | https://ngee-tropics.lbl.gov/  |
-| Spruce and Peatland Responses Under Changing Environments (SPRUCE)  | SPRUCE provides data on the peatland ecosystems to disturbances such as temperature and elevated atmospheric CO<sub>2 concentrations.  | https://mnspruce.ornl.gov/  |
+| Spruce and Peatland Responses Under Changing Environments (SPRUCE)  | SPRUCE provides data on the peatland ecosystems to disturbances such as temperature and elevated atmospheric CO<sub>2</sub> concentrations.  | https://mnspruce.ornl.gov/  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
