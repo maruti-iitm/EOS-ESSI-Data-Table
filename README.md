@@ -7,7 +7,7 @@ The collected data is standardized, stored, and made open-source for Earth and s
 This table summarizes popular and FAIR data sources for the development of ESM models. 
 The field and metadata are then processed and ingested into the ESM models using a coupled modeling-experimental (ModEx) approach.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  | Second Header | Third Header  |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
