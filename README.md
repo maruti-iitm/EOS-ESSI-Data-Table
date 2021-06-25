@@ -9,5 +9,25 @@ The field and metadata are then processed and ingested into the ESM models using
 
 | **Data sources, infrastructure, and informatics tools** | **Description of the resource** | **Links** |
 | :-----------------------------------------------------: | :-----------------------------: | :-------: |
-| AmeriFlux Network  | AmeriFlux Network provides long-term carbon, water and energy flux measurements and site metadata within Americas  | https://ameriflux.lbl.gov/  |
+| AmeriFlux Network  | AmeriFlux Network provides long-term carbon, water, and energy flux measurements and site metadata within Americas.  | https://ameriflux.lbl.gov/  |
+|Atmospheric Radiation Measurement (ARM) User Facility  | The ARM User Facility provides in situ and remote sensing observatories designed to improve the understanding and representation in climate and Earth system models, clouds and aerosols, and interactions and coupling with the Earth’s surface.  | https://www.arm.gov  |
+| The National Ecological Observatory Network (NEON)  | NEON provides ecological data based on continental-scale research instruments  | https://www.neonscience.org/  |
+| Surface Atmosphere Integrated Field Laboratory (SAIL)  | SAIL provides integrated atmosphere-to-bedrock observational data. This data is used to characterize key physical processes that impact mountain hydrology across scales  | https://sail.lbl.gov/  |
+| The ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS)  | ECOSTRESS provides data related on plant stress by accurately measuring the temperature of plants  | https://ecostress.jpl.nasa.gov/  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
