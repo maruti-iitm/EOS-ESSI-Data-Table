@@ -31,22 +31,19 @@ The field and metadata are then processed and ingested into the ESM models using
 | Energy Data eXchange (EDX)  | EDX provides a platform to acquire, preserve, and synthesize energy data products, data, and tools  | https://edx.netl.doe.gov/  |
 |   | NASA Direct Readout Laboratory (DRL).  | https://directreadout.sci.gsfc.nasa.gov/  |
 |   | NASA's Land, Atmosphere Near real-time Capability for EOS (LANCE).  | https://lance.modaps.eosdis.nasa.gov/  |
-| Open-source  satellite imagery, data products, visualization, and informatics tools from Europe (e.g., Copernicus) and USA (e.g, NASA, NOAA, USGA, US EPA, USDA)  | NASA RapidScat Portal.  | https://www.nasa.gov/rapidscat/  |
-|   | NOAA Physical Oceanographic Real-Time System (PORTS®)  | https://tidesandcurrents.noaa.gov/ports_info.html  |
-|   | NOAA's Near Real-Time Altimeter Validation System (NRTAVS)  | https://www.star.nesdis.noaa.gov/socd/lsa/NearRealTime/NRT_NRTAVS.php  |
-|   | USGS EROS Center  |  https://www.usgs.gov/centers/eros |
-|   | U.S. EPA AIRNow Program  | https://www.airnow.gov/  |
-|   | USDA/NASA Global Reservoirs and Lakes Monitor (G-REALM) system  | https://ipad.fas.usda.gov/cropexplorer/global_reservoir/  |
-|   | ESA Copernicus Open Access Hub  | https://scihub.copernicus.eu/  |
-|   | Copernicus Atmosphere Monitoring Service (CAMS)  | https://atmosphere.copernicus.eu/  |
-|   | Copernicus Atmosphere Data Store  | https://ads.atmosphere.copernicus.eu/#!/home  |
-|   | Datasets from European Centre for Medium-Range Weather Forecasts (ECMWF)  | https://www.ecmwf.int/ <br /> https://apps.ecmwf.int/datasets/  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+|   | NASA RapidScat Portal.  | https://www.nasa.gov/rapidscat/  |
+|   | NOAA Physical Oceanographic Real-Time System (PORTS®).  | https://tidesandcurrents.noaa.gov/ports_info.html  |
+|   | NOAA's Near Real-Time Altimeter Validation System (NRTAVS).  | https://www.star.nesdis.noaa.gov/socd/lsa/NearRealTime/NRT_NRTAVS.php  |
+| Open-source  satellite imagery, data products, visualization, and informatics tools from Europe (e.g., Copernicus) and USA (e.g, NASA, NOAA, USGA, US EPA, USDA)  | USGS EROS Center.  |  https://www.usgs.gov/centers/eros |
+|   | U.S. EPA AIRNow Program.  | https://www.airnow.gov/  |
+|   | USDA/NASA Global Reservoirs and Lakes Monitor (G-REALM) system.  | https://ipad.fas.usda.gov/cropexplorer/global_reservoir/  |
+|   | ESA Copernicus Open Access Hub.  | https://scihub.copernicus.eu/  |
+|   | Copernicus Atmosphere Monitoring Service (CAMS).  | https://atmosphere.copernicus.eu/  |
+|   | Copernicus Atmosphere Data Store.  | https://ads.atmosphere.copernicus.eu/#!/home  |
+|   | Datasets from European Centre for Medium-Range Weather Forecasts (ECMWF).  | https://www.ecmwf.int/ <br /> https://apps.ecmwf.int/datasets/  |
+|   | NASA Worldview.  |  https://worldview.earthdata.nasa.gov/ |
+|   | NASA's Fire Information for Resource Management System (FIRMS).  |  https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms |
+| Well-known data tools to view satellite images and create visualizations of data products, thus providing information in real-time or near real-time to support disasters and emergency management  | NASA Disasters Mapping Portal.  |  https://maps.disasters.nasa.gov/ |
+|   | USGS FarEarth Observer.  | https://earthnow.usgs.gov/observer/ <br /> https://live.farearth.com/ |
+|   | USGS Hazards Data Distribution System (HDDS) Explorer.  | https://hddsexplorer.usgs.gov/ |
+|   | USGS Collection Management Tool (CMT).  |  https://cmt.usgs.gov/ |
