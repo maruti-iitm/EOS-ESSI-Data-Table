@@ -1,5 +1,5 @@
 # A table that summarizes the FAIR data sources, infrastructure, and informatics tools for the EOS article
-In this Github link, we provide a table that summarizes `FAIR` data repositories. 
+In this Github link, we provide a table that summarizes `FAIR (Findable, Accessible, Interoperable, and Reusable)` data repositories. 
 This table is for Earth and Space Science Informatics EOS-article. 
 To summarize, high-quality data is needed to develop accurate, reliable, and fast Earth system models (ESM). 
 This information encompasses field, experimental, space, and metadata sets collected from various campaigns across the world. 
