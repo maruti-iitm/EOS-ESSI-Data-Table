@@ -19,15 +19,15 @@ The field and metadata are then processed and ingested into the ESM models using
 | Next Generation Ecosystem Experiment – Arctic (NGEE-Arctic)  | NGEE-Arctic provides data on permafrost ecology and carbon cycle dynamics in high-latitude terrestrial ecosystems.  | https://ngee.ornl.gov/  |
 | Next Generation Ecosystem Experiment – Tropics (NGEE-Tropics)  | NGEE-Tropics provides data on tropical forest ecosystems.  | https://ngee-tropics.lbl.gov/  |
 | Spruce and Peatland Responses Under Changing Environments (SPRUCE)  | SPRUCE provides data on the peatland ecosystems to disturbances such as temperature and elevated atmospheric CO<sub>2</sub> concentrations.  | https://mnspruce.ornl.gov/  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Fine-Root Ecology Database (FRED)  | FRED provides data on root traits across the globe on fine-root processes.  | https://roots.ornl.gov  |
+| KBase  | KBase is a data analytics platform that provides tools to predict and design biological function from the biomolecular scale to the ecological scale.  | https://www.kbase.us/  |
+| Mercury Aqueous Speciation Database (AQUA-MER)  | AQUA-MER provides data to investigate mercury speciation in specific defined environments.  | https://aquamer.ornl.gov  |
+| Catchment Attributes and Meteorology for Large-sample Studies (CAMELS)  | CAMELS provides data on the hydrometeorological time series and the catchment attributes for 671 basins in the US.  | https://ral.ucar.edu/solutions/products/camels  |
+| Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE)  | ESS-DIVE is a data repository for Earth and environmental science data on terrestrial and subsurface ecosystems.  | https://ess-dive.lbl.gov/  |
+| Worldwide Hydrobiogeochemical Observation Network for Dynamic River Systems (WHONDRS)  | WHONDRS provide data that aims to understand to understand coupled hydrologic, biogeochemical, and microbial function within river corridors.  | https://www.pnnl.gov/projects/WHONDRS  |
+| Pangeo  | Pangeo is a community platform for Big data geoscience to promote open, reproducible, and scalable science.  | https://pangeo.io/  |
+| Geothermal Data Repository (GDR)  | GDR provides data collected and synthesized on geothermal systems.  | https://gdr.openei.org/  |
+| OpenEI  | OpenEI provide energy data, information, analyses, tools, and maps for policymakers and researchers.  | https://openei.org/wiki/Main_Page  |
+| Energy Data eXchange (EDX)  | EDX provides a platform to acquire, preserve, and synthesize energy data products, data, and tools  | https://edx.netl.doe.gov/  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
