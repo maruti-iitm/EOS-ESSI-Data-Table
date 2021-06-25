@@ -7,8 +7,8 @@ The collected data is standardized, stored, and made open-source for Earth and s
 Below, summarizes popular and FAIR data sources for the development of ESM models. 
 The field and metadata are then processed and ingested into the ESM models using a coupled modeling-experimental (ModEx) approach.
 
-| **Data sources, infrastructure, and informatics tools** | **Description of the resource** | **Links** |
-| :-----------------------------------------------------: | :-----------------------------: | :-------: |
+| **Data sources, infrastructure, and informatics tools** | **Description of the resource** | **Resource links** |
+| :-----------------------------------------------------: | :-----------------------------: | :----------------: |
 | AmeriFlux Network  | AmeriFlux Network provides long-term carbon, water, and energy flux measurements and site metadata within Americas.  | https://ameriflux.lbl.gov/  |
 |Atmospheric Radiation Measurement (ARM) User Facility  | The ARM User Facility provides in situ and remote sensing observatories designed to improve the understanding and representation in climate and Earth system models, clouds and aerosols, and interactions and coupling with the Earth’s surface.  | https://www.arm.gov  |
 | The National Ecological Observatory Network (NEON)  | NEON provides ecological data based on continental-scale research instruments.  | https://www.neonscience.org/  |
@@ -40,7 +40,7 @@ The field and metadata are then processed and ingested into the ESM models using
 |   | ESA Copernicus Open Access Hub  | https://scihub.copernicus.eu/  |
 |   | Copernicus Atmosphere Monitoring Service (CAMS)  | https://atmosphere.copernicus.eu/  |
 |   | Copernicus Atmosphere Data Store  | https://ads.atmosphere.copernicus.eu/#!/home  |
-|   | Datasets from European Centre for Medium-Range Weather Forecasts (ECMWF)  | https://www.ecmwf.int/ <br \> https://apps.ecmwf.int/datasets/  |
+|   | Datasets from European Centre for Medium-Range Weather Forecasts (ECMWF)  | https://www.ecmwf.int/ <br /> https://apps.ecmwf.int/datasets/  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
