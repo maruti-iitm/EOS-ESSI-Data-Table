@@ -7,7 +7,7 @@ The collected data is standardized, stored, and made open-source for Earth and s
 Below, summarizes popular and FAIR data sources for the development of ESM models. 
 The field and metadata are then processed and ingested into the ESM models using a coupled modeling-experimental (ModEx) approach.
 
-| **Data sources, infrastructure, and informatics tools**  | **Description of the resource** | **Links**         |
+| **Data sources, infrastructure, and informatics tools** | **Description of the resource** | **Links** |
 | -----------------------------------------------------| --------------------------- | ------------- |
-| AmeriFlux Network  | AmeriFlux Network provides long-term carbon, water and energy flux measurements and site metadata within Americas  | (https://ameriflux.lbl.gov/)  |
+| AmeriFlux Network  | AmeriFlux Network provides long-term carbon, water and energy flux measurements and site metadata within Americas  | https://ameriflux.lbl.gov/  |
 | Content Cell  | Content Cell  | Content Cell  |
