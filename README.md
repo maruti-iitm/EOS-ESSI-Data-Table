@@ -1,4 +1,4 @@
-# EOS-ESSI-Data-Table
+# A table that summarizes the FAIR data sources, infrastructure, and informatics tools for EOS article
 In this Github link, we provide a table that summarizes FAIR data repositories. 
 This table is for Earth and Space Science Informatics EOS-article. 
 To summarize, high-quality data is needed to develop accurate, reliable, and fast Earth system models (ESM). 
