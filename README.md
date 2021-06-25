@@ -30,9 +30,9 @@ The field and metadata are then processed and ingested into the ESM models using
 | OpenEI  | OpenEI provide energy data, information, analyses, tools, and maps for policymakers and researchers.  | https://openei.org/wiki/Main_Page  |
 | Energy Data eXchange (EDX)  | EDX provides a platform to acquire, preserve, and synthesize energy data products, data, and tools  | https://edx.netl.doe.gov/  |
 |   | NASA Direct Readout Laboratory (DRL).  | https://directreadout.sci.gsfc.nasa.gov/  |
-|   | NASA’s Land, Atmosphere Near real-time Capability for EOS (LANCE).  | https://lance.modaps.eosdis.nasa.gov/#:~:text=NASA's%20Land%2C%20Atmosphere%20Near%2Dreal,%2C%20OMPS%2C%20and%20VIIRS)  |
+|   | NASA’s Land, Atmosphere Near real-time Capability for EOS (LANCE).  | https://lance.modaps.eosdis.nasa.gov/#:~:text=NASA's%20Land%2C%20Atmosphere%20Near%2Dreal,%2C%20OMPS%2C%20and%20VIIRS  |
 | Open-source  satellite imagery, data products, visualization, and informatics tools from NASA, NOAA, USGA, US EPA, USDA  | NASA RapidScat Portal.  | https://www.nasa.gov/rapidscat/  |
-| Content Cell  | NOAA Physical Oceanographic Real-Time System (PORTS®)  | https://tidesandcurrents.noaa.gov/ports_info.html  |
+|   | NOAA Physical Oceanographic Real-Time System (PORTS®)  | https://tidesandcurrents.noaa.gov/ports_info.html  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
