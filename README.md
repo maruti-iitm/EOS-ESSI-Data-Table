@@ -9,5 +9,5 @@ The field and metadata are then processed and ingested into the ESM models using
 
 | **Data sources, infrastructure, and informatics tools**  | **Description of the resource** | **Links**         |
 | -----------------------------------------------------| --------------------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| AmeriFlux Network  | AmeriFlux Network provides long-term carbon, water and energy flux measurements and site metadata within Americas  | (https://ameriflux.lbl.gov/)  |
 | Content Cell  | Content Cell  | Content Cell  |
