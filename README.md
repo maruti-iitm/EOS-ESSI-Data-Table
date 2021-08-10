@@ -1,12 +1,3 @@
-# A table that summarizes the FAIR data sources, infrastructure, and informatics tools for the EOS article
-In this Github link, we provide a table that summarizes `FAIR (Findable, Accessible, Interoperable, and Reusable)` data repositories. 
-This table is for Earth and Space Science Informatics EOS-article. 
-To summarize, high-quality data is needed to develop accurate, reliable, and fast Earth system models (ESM). 
-This information encompasses field, experimental, space, and metadata sets collected from various campaigns across the world. 
-The collected data is standardized, stored, and made open-source for Earth and space science communities. 
-Below, summarizes popular and FAIR data sources for the development of ESM models. 
-The field and metadata are then processed and ingested into the ESM models using a coupled modeling-experimental (ModEx) approach.
-
 # Current status of ESI:
 Current Status: Remote sensing in-combination of field and ancillary data has transformed the development of the Earth system model (ESM). Satellite remote sensing data has a long and rich history from aerial imagery of the early nineteenth century [Necsoiu, 2013] to the present-day’s Google Earth Engine (GEE) [Gorellic, 2013] and Unmanned Aerial Vehicles (UAV) [Singh and Frazier, 2018]. Vast repositories of satellite data like Landsat, environment data for monitoring the earth’s surface, and high resolution Sentinel data are made FREE and OPEN by USGS, NOAA, and Copernicus open hub respectively to the public to facilitate research and development. Thus, the current state-of-the-art remote sensing provides an edge over the traditional methods for monitoring natural resources and disasters. The transformation from desktop analysis to cloud computing increased transparency, reduced costs, enhanced global to local scale analysis.
 
@@ -15,6 +6,15 @@ State-of-the-art satellite remote sensing data has been INTEGRATED with GIS acro
 # Global forest watch and Open Street Map:
 
 Global Forest Watch was developed based on the capabilities of GEE. The introduction of interactive, user-friendly interfaces with various informatics tools has empowered people to analyze data on the fly and derive results about the trees which are present and absent in near real-time. The algorithm applied for works both offline and online. Forest watcher App is an interface that links satellite surveillance to footsteps on the ground helping to detect illegal activities within the forests. Thus, a COORDINATED effort increases our understanding of locating destruction. Another example of COORDINATION can be seen by the volunteers who work on the ground and help mapping vulnerable communities and places. Various tools on the OSM which is OPEN and FREE assist in this effort. According to FAIR principles, this team is committed to bringing its relevance to the real world by solving social, health, and emergency issues. In this effort, volunteers worldwide collaborate and focus from regional-scale to local-scale, providing open-source apps and community mapping to address Sustainable Development Goals.
+
+# A table that summarizes the FAIR data sources, infrastructure, and informatics tools for the EOS article
+In this Github link, we provide a table that summarizes `FAIR (Findable, Accessible, Interoperable, and Reusable)` data repositories. 
+This table is for Earth and Space Science Informatics EOS-article. 
+To summarize, high-quality data is needed to develop accurate, reliable, and fast Earth system models (ESM). 
+This information encompasses field, experimental, space, and metadata sets collected from various campaigns across the world. 
+The collected data is standardized, stored, and made open-source for Earth and space science communities. 
+Below, summarizes popular and FAIR data sources for the development of ESM models. 
+The field and metadata are then processed and ingested into the ESM models using a coupled modeling-experimental (ModEx) approach.
 
 | **Data sources, infrastructure, and informatics tools** | **Description of the resource (Field/Experimental/Remotely sensed)** | **Resource links** |
 | :-----------------------------------------------------: | :-----------------------------: | :----------------: |
